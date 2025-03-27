@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-blue.svg)
+![NumPy](https://img.shields.io/badge/NumPy-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-blue.svg)
+![seaborn](https://img.shields.io/badge/seaborn-blue.svg)
+![matplotlib](https://img.shields.io/badge/matplotlib-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 # Credit-Card-Fraud-Detection
 
 ## Introduction
