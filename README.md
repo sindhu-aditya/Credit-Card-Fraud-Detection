@@ -59,6 +59,3 @@ This dataset is publicly available and can be accessed from sources such as Kagg
 ---
 
 For more details on how the dataset is used in this project, please refer to the code and documentation provided in this repository.
----
-
-Feel free to explore the code and contribute to the project. If you have any questions or suggestions, please open an issue or contact me directly.
